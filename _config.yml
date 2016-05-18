@@ -1,0 +1,28 @@
+name: percepticon
+favicon: null
+layout_spectrum: 0.1723139276728034
+typography_spectrum: 0.8777701538056135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0933858617208898
+  lightness: 0.951216810150072
+  saturation: 0.204833609983325
+  rhythmicContrast: 0.14331751549616456
+purpose: []
