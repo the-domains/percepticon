@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[is it the future yet?]]></title>
         <description><![CDATA[is it the future yet?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/percepticon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 22:17:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 15:20:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/percepticon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Quantum Truths About Our Universe]]></title>
+            <description><![CDATA[<article><h1>10 Quantum Truths About Our Universe</h1><p>Quantum mechanics was never supposed to be intuitive, but these fundamental truths about reality will surprise professionals and amateurs alike.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46a2e8d41d5098d29bfc43dd90e555f20155cd7d.png"></article>]]></description>
+            <link>http://www.forbes.com/sites/startswithabang/2016/03/15/10-quantum-truths-about-our-universe/#339803eb4642</link>
+            <guid isPermaLink="false">a33d98c3-f7e8-491d-9acd-5f85cf2bff9f</guid>
+            <pubDate>Thu, 19 May 2016 15:20:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf520e33-d66d-4d9c-89f7-3422864020da.jpg">]]></description>
-            <link>undefinedwe-shall-meet-in-the-place-where-there-is-no-darkness/index.html</link>
+            <link>https://thegrid.ai/percepticon/we-shall-meet-in-the-place-where-there-is-no-darkness/index.html</link>
             <guid isPermaLink="false">ec122aee-e196-4dfc-b92c-d80dad695e3a</guid>
             <pubDate>Wed, 18 May 2016 22:16:31 GMT</pubDate>
         </item>
